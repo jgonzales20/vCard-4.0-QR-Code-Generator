@@ -1,4 +1,4 @@
-# Vcard QR Generator
+# vCard 4.0 QR Generator
 
 Created with vue 3 and libs:
 
